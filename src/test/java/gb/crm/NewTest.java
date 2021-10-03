@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class newTest {
+public class NewTest {
 
     public static ChromeOptions options;
     public static WebDriver driver;
